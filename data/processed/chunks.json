@@ -1,0 +1,1883 @@
+[
+  {
+    "doc_id": "news:0",
+    "chunk_id": "news:0#c0",
+    "text": "கோவையில் பேருந்து ஊழியர்கள் இன்று வேலைநிறுத்தத்தில் ஈடுபட்டுள்ளனர்.",
+    "domain": null,
+    "source": "news",
+    "date": "2024-11-20",
+    "url": null
+  },
+  {
+    "doc_id": "news:1",
+    "chunk_id": "news:1#c0",
+    "text": "kovai la perundhu employees iniku velai niruthathula irukanga.",
+    "domain": null,
+    "source": "news",
+    "date": "2024-11-20",
+    "url": null
+  },
+  {
+    "doc_id": "news:2",
+    "chunk_id": "news:2#c0",
+    "text": "perundhu niruthama coimbatore la? iniku bus strike nala office ku late aaguthu.",
+    "domain": null,
+    "source": "news",
+    "date": "2024-11-20",
+    "url": null
+  },
+  {
+    "doc_id": "power:0",
+    "chunk_id": "power:0#c0",
+    "text": "Power supply suspended in Paduvampally, Kanjapally, Kakapalayam, Chokampalayam from 9 AM to 4 PM on 31-01-2026 due to substation maintenance.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-30",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-january-31-2026"
+  },
+  {
+    "doc_id": "power:1",
+    "chunk_id": "power:1#c0",
+    "text": "கோவை Paduvampally la iniku power cut 9 AM to 4 PM da... maintenance nu solraanga, work mudinjale endha time varum?",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "power:2",
+    "chunk_id": "power:2#c0",
+    "text": "Power shutdown in Pattanam, Pattanam 110/11 KV Substation areas on 29-01-2026 from 9 AM to 4 PM for scheduled maintenance.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-28",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-january-29-2026"
+  },
+  {
+    "doc_id": "power:3",
+    "chunk_id": "power:3#c0",
+    "text": "Enna da Coimbatore la weekly power cut schedule irukku... iniku Paduvampally full off, work pannunga fast ah.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "power:4",
+    "chunk_id": "power:4#c0",
+    "text": "Power supply will be suspended in Metro – Coimbatore (110 KV) areas on 31-01-2026 from 9 AM to 4 PM due to maintenance works.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-30",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-january-31-2026"
+  },
+  {
+    "doc_id": "power:5",
+    "chunk_id": "power:5#c0",
+    "text": "Koilpalayam substation areas like Sarkarsamakulam, Kovilpalayam, Kurumbapalayam affected on 08-01-2026 9 AM-4 PM shutdown.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-07",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-january-08-2026"
+  },
+  {
+    "doc_id": "power:6",
+    "chunk_id": "power:6#c0",
+    "text": "கோவை la power cut frequent ah irukku da... TANGEDCO schedule check pannunga, iniku 9 to 4 full off in some areas.",
+    "domain": "power",
+    "source": "forums",
+    "date": "2026-01-25",
+    "url": null
+  },
+  {
+    "doc_id": "power:7",
+    "chunk_id": "power:7#c0",
+    "text": "Scheduled power shutdown in Somanur areas: Krishnapuram, Semmandampalayam on 23-01-2026 from 9 AM to 4 PM.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-22",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-january-23-2026"
+  },
+  {
+    "doc_id": "power:8",
+    "chunk_id": "power:8#c0",
+    "text": "Power cut in Ellappalayam, Telungupalayam, Pillaiyappanpalayam on January 7, 2026 as per TANGEDCO list.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-07",
+    "url": "https://www.news18.com/photogallery/india/tamil-nadu-power-cuts-on-january-7-2026-full-list-of-affected-areas-and-timings-ws-ekl-9814409.html"
+  },
+  {
+    "doc_id": "power:9",
+    "chunk_id": "power:9#c0",
+    "text": "Iniku power off ah da? TANGEDCO app la check pannu, maintenance nu irukku but eppo varum theriyala.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-15",
+    "url": null
+  },
+  {
+    "doc_id": "power:10",
+    "chunk_id": "power:10#c0",
+    "text": "Power shutdown in Kuniamuthur, part of Sundrapuram, Kovaipudur on 24-12-2025 from 9 AM to 4 PM.",
+    "domain": "power",
+    "source": "news",
+    "date": "2025-12-23",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-december-24-2025"
+  },
+  {
+    "doc_id": "power:11",
+    "chunk_id": "power:11#c0",
+    "text": "கோவை Anna Nagar la power cut irukka? Evening la fan kooda illa, summer la torture da.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2025-12-20",
+    "url": null
+  },
+  {
+    "doc_id": "power:12",
+    "chunk_id": "power:12#c0",
+    "text": "TANGEDCO planned outage in Sellappam Palayam: Mooperipalayam, Thattampudur on recent Saturday schedule.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-30",
+    "url": "https://coimbatorelive.com/category/power-shutdown"
+  },
+  {
+    "doc_id": "power:13",
+    "chunk_id": "power:13#c0",
+    "text": "Power supply interruption in M.G. Road, Thudiyalur areas on Nov 10-11, 2025 for maintenance.",
+    "domain": "power",
+    "source": "news",
+    "date": "2025-11-09",
+    "url": "https://news.abplive.com/cities/coimbatore-power-cut-on-nov-10-11-2025-over-75-areas-madhampatty-bhavani-to-be-hit-by-7-hour-outage-1810583"
+  },
+  {
+    "doc_id": "power:14",
+    "chunk_id": "power:14#c0",
+    "text": "RS Puram la power frequent ah poiduthu da... TANGEDCO ku complaint pannanum.",
+    "domain": "power",
+    "source": "forums",
+    "date": "2025-12-15",
+    "url": null
+  },
+  {
+    "doc_id": "power:15",
+    "chunk_id": "power:15#c0",
+    "text": "Scheduled shutdown in Kurunellipalayam, Kalapatti, KS Puram on November 24-25, 2025 from 9 AM to 4 PM.",
+    "domain": "power",
+    "source": "news",
+    "date": "2025-11-23",
+    "url": "https://news.abplive.com/cities/coimbatore-power-shutdown-on-november-24-25-2025-kurunellipalayam-kalapatti-ks-puram-check-affected-areas-1813035"
+  },
+  {
+    "doc_id": "power:16",
+    "chunk_id": "power:16#c0",
+    "text": "Power cut today in Coimbatore Metro areas... work mudinjale before 4 PM varum nu hope.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "power:17",
+    "chunk_id": "power:17#c0",
+    "text": "TANGEDCO announces 7-hour outage in over 75 areas including Madhampatty on Nov 10, 2025.",
+    "domain": "power",
+    "source": "news",
+    "date": "2025-11-10",
+    "url": "https://news.abplive.com/cities/coimbatore-power-cut-on-nov-10-11-2025-over-75-areas-madhampatty-bhavani-to-be-hit-by-7-hour-outage-1810583"
+  },
+  {
+    "doc_id": "power:18",
+    "chunk_id": "power:18#c0",
+    "text": "இன்னிக்கு power shutdown 9 to 4 da... laptop charge pannitu iru, work miss aagidum.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-23",
+    "url": null
+  },
+  {
+    "doc_id": "power:19",
+    "chunk_id": "power:19#c0",
+    "text": "Power supply to be restored before 4 PM if maintenance completes early in affected substations.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-30",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-january-31-2026"
+  },
+  {
+    "doc_id": "power:20",
+    "chunk_id": "power:20#c0",
+    "text": "Bethapuram, Thannerpanthal, Kottaipirivu power cut on Nov 12, 2025 for upgrades.",
+    "domain": "power",
+    "source": "news",
+    "date": "2025-11-11",
+    "url": "https://www.nativeplanet.com/news/coimbatore-residents-alerted-tangedco-announces-power-cut-on-november-12-for-upgrades-017865.html"
+  },
+  {
+    "doc_id": "power:21",
+    "chunk_id": "power:21#c0",
+    "text": "Coimbatore la summer vara power cut schedule tight ah irukku... inverter venum da.",
+    "domain": "power",
+    "source": "forums",
+    "date": "2026-01-10",
+    "url": null
+  },
+  {
+    "doc_id": "power:22",
+    "chunk_id": "power:22#c0",
+    "text": "TANGEDCO power shutdown in multiple areas today, check official site or app for your locality.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-01",
+    "url": "http://www.tnebltd.gov.in/outages/viewshutdown.xhtml"
+  },
+  {
+    "doc_id": "power:23",
+    "chunk_id": "power:23#c0",
+    "text": "Iniku evening la power poiduthu... fan illama suffer da, TANGEDCO eppo fix pannuvaanga?",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2025-12-05",
+    "url": null
+  },
+  {
+    "doc_id": "power:24",
+    "chunk_id": "power:24#c0",
+    "text": "Planned outage in Ganapathy Industrial Estate areas for substation work on recent schedule.",
+    "domain": "power",
+    "source": "news",
+    "date": "2025-12-18",
+    "url": "https://coimbatorelive.com/category/power-shutdown"
+  },
+  {
+    "doc_id": "power:25",
+    "chunk_id": "power:25#c0",
+    "text": "Power cut complaint: Frequent interruptions in Peelamedu, even though scheduled only 9-4.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-20",
+    "url": null
+  },
+  {
+    "doc_id": "power:26",
+    "chunk_id": "power:26#c0",
+    "text": "TANGEDCO maintenance shutdown in Thudiyalur, M.G. Road extended areas on Nov dates.",
+    "domain": "power",
+    "source": "news",
+    "date": "2025-11-10",
+    "url": "https://news.abplive.com/cities/coimbatore-power-cut-on-nov-10-11-2025-over-75-areas-madhampatty-bhavani-to-be-hit-by-7-hour-outage-1810583"
+  },
+  {
+    "doc_id": "power:27",
+    "chunk_id": "power:27#c0",
+    "text": "கோவை la power stable illa da... weekly 7 hours cut, inverter buy pannanum.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2025-11-25",
+    "url": null
+  },
+  {
+    "doc_id": "power:28",
+    "chunk_id": "power:28#c0",
+    "text": "Check TNPDCL site for latest power shutdown as on 02-02-2026, multiple circles affected.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "http://www.tnebltd.gov.in/outages/viewshutdown.xhtml"
+  },
+  {
+    "doc_id": "power:29",
+    "chunk_id": "power:29#c0",
+    "text": "Power supply back on time today? Maintenance work finished early in some substations.",
+    "domain": "power",
+    "source": "forums",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "power:30",
+    "chunk_id": "power:30#c0",
+    "text": "Power supply suspended in Kallapatti, Cheranma Nagar, Nehru Nagar, Chitra, Valliampalayam from 9 AM to 4 PM on 02-02-2026 for maintenance.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "power:31",
+    "chunk_id": "power:31#c0",
+    "text": "கோவை Kallapatti la iniku power cut 9 to 4 da... TANGEDCO maintenance, work mudiyala endha time varum nu theriyala.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "power:32",
+    "chunk_id": "power:32#c0",
+    "text": "Power outage in Peelamedu Industrial Estate, Sharp Nagar, Maheshwari Nagar, Lakshmi Nagar on Feb 2, 2026 due to scheduled work.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "power:33",
+    "chunk_id": "power:33#c0",
+    "text": "Enna da weekly power cut schedule irukku Coimbatore la... iniku Peelamedu full off, laptop charge panni vechuko.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-02-01",
+    "url": null
+  },
+  {
+    "doc_id": "power:34",
+    "chunk_id": "power:34#c0",
+    "text": "Power shutdown in Villankurichi, Thanneerpanthal, K.R. Palayam areas on February 2, 2026 from 9 AM to 4 PM.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "power:35",
+    "chunk_id": "power:35#c0",
+    "text": "Devanampalayam, Kulathupalayam, Cheripalayam, Andipalayam power cut on Jan 20, 2026 for TANGEDCO maintenance.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-20",
+    "url": "https://www.news18.com/photogallery/cities/chennai-news/tamil-nadu-power-cut-alert-district-wise-list-of-affected-areas-today-january-20-2026-tuesday-ws-e-9843076.html"
+  },
+  {
+    "doc_id": "power:36",
+    "chunk_id": "power:36#c0",
+    "text": "கோவை RS Puram la power frequent cut da... evening la fan illama suffer, TANGEDCO schedule check pannunga.",
+    "domain": "power",
+    "source": "forums",
+    "date": "2026-01-25",
+    "url": null
+  },
+  {
+    "doc_id": "power:37",
+    "chunk_id": "power:37#c0",
+    "text": "Ellappalayam, Telungupalayam, Pillaiyappanpalayam affected by power shutdown on Jan 7, 2026.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-07",
+    "url": "https://www.news18.com/photogallery/india/tamil-nadu-power-cuts-on-january-7-2026-full-list-of-affected-areas-and-timings-ws-ekl-9814409.html"
+  },
+  {
+    "doc_id": "power:38",
+    "chunk_id": "power:38#c0",
+    "text": "Iniku power off ah? TANGEDCO app la paaru, Kallapatti area la cut irukku nu solraanga.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "power:39",
+    "chunk_id": "power:39#c0",
+    "text": "Power supply suspended in Murugan Nagar, Javali Nagar, Kumutham Nagar on Feb 2 for line maintenance.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "power:40",
+    "chunk_id": "power:40#c0",
+    "text": "Power cut in Coimbatore North areas like Mettupalayam, Annur on Jan 31, 2026 tentative schedule.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-31",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-january-31-2026"
+  },
+  {
+    "doc_id": "power:41",
+    "chunk_id": "power:41#c0",
+    "text": "கோவை la power cut romba irritating da... 9 to 4 varaikum work panna mudiyala, inverter venum.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-30",
+    "url": null
+  },
+  {
+    "doc_id": "power:42",
+    "chunk_id": "power:42#c0",
+    "text": "Scheduled outage in Jeeva Nagar, Sengaliyappan Nagar on Feb 2, 2026 due to TANGEDCO works.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "power:43",
+    "chunk_id": "power:43#c0",
+    "text": "Power interruption in Periyanaickenpalayam, Veerapandi areas on Jan 6, 2026 maintenance.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-06",
+    "url": "https://www.nativeplanet.com/news/planned-power-outages-on-january-6-2026-hit-chennai-coimbatore-and-other-districts-in-tamil-nadu-018618.html"
+  },
+  {
+    "doc_id": "power:44",
+    "chunk_id": "power:44#c0",
+    "text": "TANGEDCO power cut today in multiple areas, check official site for updates.",
+    "domain": "power",
+    "source": "forums",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "power:45",
+    "chunk_id": "power:45#c0",
+    "text": "Power shutdown in Pattanam 110/11 KV substation areas on Jan 29, 2026 from 9 AM to 4 PM.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-29",
+    "url": "https://coimbatorelive.com/coimbatore-power-shutdown-january-29-2026"
+  },
+  {
+    "doc_id": "power:46",
+    "chunk_id": "power:46#c0",
+    "text": "Iniku evening power poiduthu da... maintenance nu solraanga but eppo varum theriyala.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-20",
+    "url": null
+  },
+  {
+    "doc_id": "power:47",
+    "chunk_id": "power:47#c0",
+    "text": "Power supply to be resumed before 4 PM if works complete early in affected Coimbatore areas.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.tnebltd.gov.in/outages/viewshutdown.xhtml"
+  },
+  {
+    "doc_id": "power:48",
+    "chunk_id": "power:48#c0",
+    "text": "கோவை Peelamedu la power cut irukka? Office la work stuck aagiduchu da.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "power:49",
+    "chunk_id": "power:49#c0",
+    "text": "TANGEDCO monthly maintenance causing cuts in Coimbatore North and South circles on Feb 2.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "power:50",
+    "chunk_id": "power:50#c0",
+    "text": "Frequent power issues in Villankurichi despite scheduled only daytime—check complaints.",
+    "domain": "power",
+    "source": "forums",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "power:51",
+    "chunk_id": "power:51#c0",
+    "text": "Power cut in Cheranma Nagar, Nehru Nagar on Feb 2 schedule—plan accordingly.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "power:52",
+    "chunk_id": "power:52#c0",
+    "text": "TANGEDCO shutdown intimation for Mettupalayam areas on Jan 31—9am-4pm.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "power:53",
+    "chunk_id": "power:53#c0",
+    "text": "Power stable illa da Coimbatore la... weekly cuts, summer varaikum idhu thaan.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-28",
+    "url": null
+  },
+  {
+    "doc_id": "power:54",
+    "chunk_id": "power:54#c0",
+    "text": "Check TNPDCL outage portal for latest as on Feb 2—multiple Coimbatore areas listed.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.tnebltd.gov.in/outages/viewshutdown.xhtml"
+  },
+  {
+    "doc_id": "power:55",
+    "chunk_id": "power:55#c0",
+    "text": "Power cut complaint in Thanneerpanthal—why extra time beyond schedule?",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "power:56",
+    "chunk_id": "power:56#c0",
+    "text": "Scheduled power suspension in Sharp Nagar, Maheshwari Nagar Feb 2 maintenance.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "power:57",
+    "chunk_id": "power:57#c0",
+    "text": "கோவை la power cut nal work from home tough aagiduchu da... backup venum.",
+    "domain": "power",
+    "source": "twitter",
+    "date": "2026-01-20",
+    "url": null
+  },
+  {
+    "doc_id": "power:58",
+    "chunk_id": "power:58#c0",
+    "text": "Power supply back early in some substations today if maintenance finishes fast.",
+    "domain": "power",
+    "source": "forums",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "power:59",
+    "chunk_id": "power:59#c0",
+    "text": "TANGEDCO announces cuts in Coimbatore for Feb 2—routine monthly work, no panic.",
+    "domain": "power",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://news24online.com/india/tamil-nadu-power-cut-on-february-2-tangedco-announces-scheduled-outage-in-these-districts-check-full-list/732191"
+  },
+  {
+    "doc_id": "transport_traffic:0",
+    "chunk_id": "transport_traffic:0#c0",
+    "text": "Coimbatore Avinashi Road la heavy traffic, signal ku 3 cycle wait panna sanikiduchu 😓",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2024-11-21",
+    "url": "https://twitter.com/example/status/1"
+  },
+  {
+    "doc_id": "transport_traffic:1",
+    "chunk_id": "transport_traffic:1#c0",
+    "text": "சென்னையில் மதிய வேளையில் மெட்ரோ ரயில் சேவைகள் தற்காலிகமாக பாதிக்கப்பட்டன.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2024-11-21",
+    "url": "https://news.example.com/metro-delay"
+  },
+  {
+    "doc_id": "transport_traffic:2",
+    "chunk_id": "transport_traffic:2#c0",
+    "text": "Anna Nagar la iniku evening full traffic jam, rain + construction nala road romba narrow aagiduchu.",
+    "domain": "traffic",
+    "source": "forums",
+    "date": "2024-11-21",
+    "url": null
+  },
+  {
+    "doc_id": "transport_traffic:3",
+    "chunk_id": "transport_traffic:3#c0",
+    "text": "Enna da bus delay again ah? Koyambedu to Tambaram route la periya delay, office ku late aagiduchu.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2024-11-21",
+    "url": null
+  },
+  {
+    "doc_id": "transport_traffic:4",
+    "chunk_id": "transport_traffic:4#c0",
+    "text": "Coimbatore metro project rejected again by centre da... DPR la discrepancies irukku nu solraanga. Traffic ippo full torture aagiduchu without metro.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2025-11-21",
+    "url": "https://x.com/example_user/status/185xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:5",
+    "chunk_id": "transport_traffic:5#c0",
+    "text": "மெட்ரோ ரயில் திட்ட அறிக்கையில் கோவைக்கு அதிக போக்குவரத்து எதிர்பார்ப்பு காட்டப்பட்டுள்ளது. சென்னையை விட அதிகமாக உள்ளது என்று மத்திய அமைச்சர் கூறினார்.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2025-11-20",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/metro-rail-proposals-for-coimbatore-madurai-have-discrepancies"
+  },
+  {
+    "doc_id": "transport_traffic:6",
+    "chunk_id": "transport_traffic:6#c0",
+    "text": "கோவை traffic la maatikiten da... Avinashi road full jam, signal ku 4-5 cycle wait. Metro vara varaikum idhu thaan da daily story.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-12-05",
+    "url": "https://x.com/kovai_boy/status/186xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:7",
+    "chunk_id": "transport_traffic:7#c0",
+    "text": "கோயம்புத்தூர் மெட்ரோ திட்டத்திற்கான திருத்திய திட்ட அறிக்கை தமிழக அரசால் மத்திய அரசுக்கு சமர்ப்பிக்கப்பட்டது. ஆனால் குறைபாடுகள் காரணமாக திருப்பி அனுப்பப்பட்டது.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2026-01-16",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-news/coimbatore-metro-revised-project-report"
+  },
+  {
+    "doc_id": "transport_traffic:8",
+    "chunk_id": "transport_traffic:8#c0",
+    "text": "Gandhipuram central bus stand renovation 50 years old building... ippo innum delay da fund allocation illa nu solraanga. Enna da idhu govt work.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2025-12-20",
+    "url": "https://x.com/cbe_commuter/status/187xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:9",
+    "chunk_id": "transport_traffic:9#c0",
+    "text": "கோயம்புத்தூரில் உள்கட்டமைப்பு திட்டங்களுக்கு நிதி ஒதுக்கீடு தாமதமாகி வருகிறது. காந்திபுரம் பேருந்து நிலையம் புனரமைப்பு பணி நிறுத்தப்பட்டுள்ளது.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2025-12-19",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/19/infra-projects-in-coimbatore-stuck"
+  },
+  {
+    "doc_id": "transport_traffic:10",
+    "chunk_id": "transport_traffic:10#c0",
+    "text": "Sathy road la NH work slow ah nadakkuthu... Annur varaikum 4 lane aagala. Traffic jam everyday evening 6-9 pm unbearable da.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-10",
+    "url": "https://x.com/kovai_traffic/status/188xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:11",
+    "chunk_id": "transport_traffic:11#c0",
+    "text": "RS Puram la evening full jam irukku... cars + two wheelers + autos mix. Metro illana idhu fix aagadhu da bros.",
+    "domain": "traffic",
+    "source": "forums",
+    "date": "2025-12-15",
+    "url": "https://exampleforum.com/thread/traffic-rspuram"
+  },
+  {
+    "doc_id": "transport_traffic:12",
+    "chunk_id": "transport_traffic:12#c0",
+    "text": "CM wrote to PM about Coimbatore Madurai metro rejection... but centre says policy violation. Politics da idhellam.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2025-11-22",
+    "url": "https://x.com/tn_politics/status/185yyyy"
+  },
+  {
+    "doc_id": "transport_traffic:13",
+    "chunk_id": "transport_traffic:13#c0",
+    "text": "தமிழக முதலமைச்சர் பிரதமருக்கு கடிதம் எழுதினார். கோவை மெட்ரோ திட்டத்தை மறுபரிசீலனை செய்ய வேண்டும் என்று கோரினார்.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2025-11-22",
+    "url": "https://metrorailnews.in/coimbatore-madurai-metro-projects"
+  },
+  {
+    "doc_id": "transport_traffic:14",
+    "chunk_id": "transport_traffic:14#c0",
+    "text": "Peelamedu la airport road la heavy traffic irukku iniku... flight miss aagiducha nu bayam da.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-25",
+    "url": "https://x.com/airportguy_cbe/status/189xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:15",
+    "chunk_id": "transport_traffic:15#c0",
+    "text": "Ukkadam bus stand construction fast ah nadakkuthu... hopefully one month la ready aagidum nu solraanga.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2026-01-05",
+    "url": "https://x.com/bus_user_cbe/status/190xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:16",
+    "chunk_id": "transport_traffic:16#c0",
+    "text": "ஒரே மாதத்தில் உக்கடம் பேருந்து நிலையம் பயன்பாட்டுக்கு தயாராகிவிடும் என்று அதிகாரிகள் தெரிவித்தனர்.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2026-01-20",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/ukkadam-bus-stand"
+  },
+  {
+    "doc_id": "transport_traffic:17",
+    "chunk_id": "transport_traffic:17#c0",
+    "text": "Rain vandha Coimbatore la road full water logging + jam. Drainage fix pannala da ippo varaikum.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-12-10",
+    "url": "https://x.com/rain_hater_cbe/status/191xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:18",
+    "chunk_id": "transport_traffic:18#c0",
+    "text": "No metro for Coimbatore even in 2026 budget... sad da we are ignored completely.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2026-02-01",
+    "url": "https://x.com/kongu_voice/status/192xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:19",
+    "chunk_id": "transport_traffic:19#c0",
+    "text": "Saibaba colony la evening traffic jam romba mosam... school time la avoid pannunga da.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-28",
+    "url": "https://x.com/parent_cbe/status/193xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:20",
+    "chunk_id": "transport_traffic:20#c0",
+    "text": "கோயம்புத்தூர் மெட்ரோ திட்டம் 2026 ஜூனுக்குள் தொடங்கும் என்று எதிர்பார்க்கப்படுகிறது ஆனால் நிதி பிரச்சினை உள்ளது.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2025-11-25",
+    "url": "https://www.dtnext.in/news/choked-coimbatore-seeks-metro-rail-relief"
+  },
+  {
+    "doc_id": "transport_traffic:21",
+    "chunk_id": "transport_traffic:21#c0",
+    "text": "L&T bypass elevated aagala... Neelambur to Ettimadai full jam everyday.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-11-30",
+    "url": "https://x.com/road_rager/status/194xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:22",
+    "chunk_id": "transport_traffic:22#c0",
+    "text": "Kovai la private bus operators strike threat poduraanga... fuel price high nu. Public suffer da.",
+    "domain": "transport",
+    "source": "forums",
+    "date": "2026-01-15",
+    "url": "https://localforum.in/thread/bus-strike-threat"
+  },
+  {
+    "doc_id": "transport_traffic:23",
+    "chunk_id": "transport_traffic:23#c0",
+    "text": "100 feet road la no parking board irundhalum cars full ah park pannuraanga. Traffic police enga da?",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-18",
+    "url": "https://x.com/angry_driver/status/195xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:24",
+    "chunk_id": "transport_traffic:24#c0",
+    "text": "கோவையில் பிரதான சாலைகளில் கடைகளுக்கு முன் வாகனங்கள் நிறுத்துவதை தடுக்க போலீசார் நடவடிக்கை எடுக்க வேண்டும்.",
+    "domain": "traffic",
+    "source": "news",
+    "date": "2025-01-03",
+    "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/no-parking-issues"
+  },
+  {
+    "doc_id": "transport_traffic:25",
+    "chunk_id": "transport_traffic:25#c0",
+    "text": "Metro illa na flyover mattum podhadhu da... Coimbatore choked with traffic.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2025-11-24",
+    "url": "https://x.com/city_watcher/status/196xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:26",
+    "chunk_id": "transport_traffic:26#c0",
+    "text": "Town hall area la Saturday night jam next level... move pannave mudiyala.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-11-23",
+    "url": "https://x.com/weekend_vibes/status/197xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:27",
+    "chunk_id": "transport_traffic:27#c0",
+    "text": "கோவை மெட்ரோ திட்டத்திற்கு மத்திய அரசு நிதி ஒதுக்கவில்லை. மாநில அரசு மீண்டும் முயற்சி செய்ய வேண்டும்.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://example-news.com/budget-snub"
+  },
+  {
+    "doc_id": "transport_traffic:28",
+    "chunk_id": "transport_traffic:28#c0",
+    "text": "Vilankurichi road la water pipeline burst... road full water + traffic mess.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-31",
+    "url": "https://x.com/local_alert/status/198xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:29",
+    "chunk_id": "transport_traffic:29#c0",
+    "text": "Bus conductors over speeding pannuraanga... safety zero da Coimbatore routes la.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2026-01-12",
+    "url": "https://x.com/safety_first/status/199xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:30",
+    "chunk_id": "transport_traffic:30#c0",
+    "text": "Singanallur la bridge work delay... daily 30 mins extra travel time.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-12-25",
+    "url": "https://x.com/commute_pain/status/200xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:31",
+    "chunk_id": "transport_traffic:31#c0",
+    "text": "கோயம்புத்தூரில் போக்குவரத்து நெரிசல் அதிகரித்து வருகிறது. மெட்ரோ திட்டம் அவசரமாக தேவை.",
+    "domain": "traffic",
+    "source": "news",
+    "date": "2025-12-01",
+    "url": "https://www.dtnext.in/news/coimbatore-traffic-crunch"
+  },
+  {
+    "doc_id": "transport_traffic:32",
+    "chunk_id": "transport_traffic:32#c0",
+    "text": "TNEB + transport dept coordination illa... power cut + bus delay combo daily.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2026-01-08",
+    "url": "https://x.com/frustrated_cbe/status/201xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:33",
+    "chunk_id": "transport_traffic:33#c0",
+    "text": "Hope new year la traffic rules strict aagum... but doubt da.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-01",
+    "url": "https://x.com/newyear_wish/status/202xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:34",
+    "chunk_id": "transport_traffic:34#c0",
+    "text": "Coimbatore airport traffic increase aagiduchu... but road capacity same da.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2026-01-20",
+    "url": "https://x.com/travel_guy/status/203xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:35",
+    "chunk_id": "transport_traffic:35#c0",
+    "text": "Any idea when Gandhipuram bus stand renovation complete aagum? Already 2 years delay.",
+    "domain": "traffic",
+    "source": "forums",
+    "date": "2025-12-18",
+    "url": "https://forum.example.com/gandhipuram-delay"
+  },
+  {
+    "doc_id": "transport_traffic:36",
+    "chunk_id": "transport_traffic:36#c0",
+    "text": "Construction nalum jam, rain nalum jam... Coimbatore la escape illa da.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-12-08",
+    "url": "https://x.com/jam_king/status/204xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:37",
+    "chunk_id": "transport_traffic:37#c0",
+    "text": "மெட்ரோ ரயில் திட்டங்களுக்கு நிதி இல்லை என்று ஒன்றிய பட்ஜெட் உறுதிப்படுத்தியது.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2026-02-01",
+    "url": "https://example-budget-news.com"
+  },
+  {
+    "doc_id": "transport_traffic:38",
+    "chunk_id": "transport_traffic:38#c0",
+    "text": "AIADMK also complaining about metro funds... but when they were in power nothing happened.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": "https://x.com/political_sarcasm/status/205xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:39",
+    "chunk_id": "transport_traffic:39#c0",
+    "text": "Evening 7 pm la RS Puram cross pannave mudiyala... full standstill.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-14",
+    "url": "https://x.com/stuck_in_traffic/status/206xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:40",
+    "chunk_id": "transport_traffic:40#c0",
+    "text": "Private buses charging extra during peak hours... regulation venum da.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2025-12-30",
+    "url": "https://x.com/fair_fare/status/207xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:41",
+    "chunk_id": "transport_traffic:41#c0",
+    "text": "கோவை போக்குவரத்து நெரிசலை குறைக்க பறக்கும் பாதைகள் மட்டும் போதாது.",
+    "domain": "traffic",
+    "source": "news",
+    "date": "2025-11-25",
+    "url": "https://www.dtnext.in/news/choked-coimbatore"
+  },
+  {
+    "doc_id": "transport_traffic:42",
+    "chunk_id": "transport_traffic:42#c0",
+    "text": "Bro anyone know alternate route for Gandhipuram to Town hall? Jam too much.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-22",
+    "url": "https://x.com/route_helper/status/208xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:43",
+    "chunk_id": "transport_traffic:43#c0",
+    "text": "Metro policy 2017 la compliance illa nu centre solradhu correct ah? Or politics?",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2025-11-21",
+    "url": "https://x.com/metro_debate/status/209xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:44",
+    "chunk_id": "transport_traffic:44#c0",
+    "text": "Coimbatore Saturday night la move pannave mudiyadhu... unbearable da.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-11-22",
+    "url": "https://x.com/night_rider/status/210xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:45",
+    "chunk_id": "transport_traffic:45#c0",
+    "text": "கோவை மெட்ரோ திட்டம் நிராகரிக்கப்பட்டது. காரணம் திட்ட அறிக்கையில் குறைபாடுகள்.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2025-11-20",
+    "url": "https://www.thehindu.com/news/national/tamil-nadu/metro-rail-proposals"
+  },
+  {
+    "doc_id": "transport_traffic:46",
+    "chunk_id": "transport_traffic:46#c0",
+    "text": "Anna Nagar la construction + rain = mega jam da today.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-12-12",
+    "url": "https://x.com/local_resident/status/211xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:47",
+    "chunk_id": "transport_traffic:47#c0",
+    "text": "Bus strike rumor irukku... confirm pannunga da anyone.",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2026-01-19",
+    "url": "https://x.com/bus_watcher/status/212xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:48",
+    "chunk_id": "transport_traffic:48#c0",
+    "text": "Coimbatore la daily traffic la 1 hour waste aagudhu... metro vara maatengala?",
+    "domain": "traffic",
+    "source": "forums",
+    "date": "2026-01-10",
+    "url": "https://forum.example.com/traffic-waste"
+  },
+  {
+    "doc_id": "transport_traffic:49",
+    "chunk_id": "transport_traffic:49#c0",
+    "text": "Signal timing optimize pannunga da traffic police... waiting time romba.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2026-01-05",
+    "url": "https://x.com/signal_hater/status/213xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:50",
+    "chunk_id": "transport_traffic:50#c0",
+    "text": "தமிழ்நாட்டில் மெட்ரோ திட்டங்களுக்கு நிதி இல்லை என்பது ஏமாற்றம் அளிக்கிறது.",
+    "domain": "transport",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://example-news.com/budget-reaction"
+  },
+  {
+    "doc_id": "transport_traffic:51",
+    "chunk_id": "transport_traffic:51#c0",
+    "text": "Kovai la pollution + traffic combo health ku mosam da.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-12-28",
+    "url": "https://x.com/health_guy/status/214xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:52",
+    "chunk_id": "transport_traffic:52#c0",
+    "text": "Finally some hope for Ukkadam bus stand... but will it finish on time?",
+    "domain": "transport",
+    "source": "twitter",
+    "date": "2026-01-25",
+    "url": "https://x.com/hopeful_commuter/status/215xxxx"
+  },
+  {
+    "doc_id": "transport_traffic:53",
+    "chunk_id": "transport_traffic:53#c0",
+    "text": "Metro illa na Coimbatore growth stuck da forever.",
+    "domain": "traffic",
+    "source": "twitter",
+    "date": "2025-11-28",
+    "url": "https://x.com/city_future/status/216xxxx"
+  },
+  {
+    "doc_id": "water:0",
+    "chunk_id": "water:0#c0",
+    "text": "Coimbatore's 24x7 water supply project delayed again to Feb 2026. Slow progress and substandard work by Suez blamed.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-18",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/18/tnie-exclusive-completion-of-24x7-water-supply-project-in-coimbatore-pushed-to-feb-2026"
+  },
+  {
+    "doc_id": "water:1",
+    "chunk_id": "water:1#c0",
+    "text": "கோவை 24x7 தண்ணீர் திட்டம் பிப்ரவரி 2026க்கு தள்ளிவைக்கப்பட்டது. சூயஸ் நிறுவனம் சரியா வேலை செய்யல da.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2025-12-19",
+    "url": null
+  },
+  {
+    "doc_id": "water:2",
+    "chunk_id": "water:2#c0",
+    "text": "Completion of the ₹646-crore 24/7 drinking water project expected in January 2026, delayed from August 2025 due to pending approvals for pipeline installation on highways.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-09-15",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatores-247-drinking-water-supply-project-by-suez-likely-to-be-completed-in-january-2026/article70052429.ece"
+  },
+  {
+    "doc_id": "water:3",
+    "chunk_id": "water:3#c0",
+    "text": "Excavation works on Sarojini Street Ram Nagar causing road issues under 24/7 water project. When will roads be restored da?",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2025-12-10",
+    "url": null
+  },
+  {
+    "doc_id": "water:4",
+    "chunk_id": "water:4#c0",
+    "text": "90% of 24x7 water project complete; 90,000+ houses getting supply but many wards lagging. Road restoration pending.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-24",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/87-of-24x7-water-supply-project-in-coimbatore-completed-pipeline-work-begins-at-major-junctions/article70433552.ece"
+  },
+  {
+    "doc_id": "water:5",
+    "chunk_id": "water:5#c0",
+    "text": "கோவை la 24x7 water வர இன்னும் டைம் ஆகுது... pipeline work nal road full damage, traffic + water problem combo.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-05",
+    "url": null
+  },
+  {
+    "doc_id": "water:6",
+    "chunk_id": "water:6#c0",
+    "text": "Over 1,747 km supply pipelines laid out of 1,798 km. 30/33 OHTs done. But UGD works damaging pipelines, adding delays.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-18",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/18/tnie-exclusive-completion-of-24x7-water-supply-project-in-coimbatore-pushed-to-feb-2026"
+  },
+  {
+    "doc_id": "water:7",
+    "chunk_id": "water:7#c0",
+    "text": "In RS Puram water low pressure irukku da... 24x7 project vara varaikum tanker la thaan buy pannanum.",
+    "domain": "water",
+    "source": "forums",
+    "date": "2026-01-15",
+    "url": null
+  },
+  {
+    "doc_id": "water:8",
+    "chunk_id": "water:8#c0",
+    "text": "Volunteers planted 350 bamboo saplings at Kolarampathy lake to restore water bodies in Coimbatore.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "water:9",
+    "chunk_id": "water:9#c0",
+    "text": "கோலரம்பத்தி ஏரி கரையில் 350 மூங்கில் செடிகள் நடப்பட்டன... நீர் நிலைகள் பாதுகாப்புக்கு உதவும்.",
+    "domain": "water",
+    "source": "youtube",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "water:10",
+    "chunk_id": "water:10#c0",
+    "text": "CCMC Commissioner: Digging stopped, focus on road restoration. Full completion by Feb-March 2026.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-18",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/18/tnie-exclusive-completion-of-24x7-water-supply-project-in-coimbatore-pushed-to-feb-2026"
+  },
+  {
+    "doc_id": "water:11",
+    "chunk_id": "water:11#c0",
+    "text": "Vilankurichi Road la drinking water pipeline burst again... water full road la, supply disrupted.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "water:12",
+    "chunk_id": "water:12#c0",
+    "text": "95,947 houses with 24x7 supply now. But public angry about unfinished HSCs and road safety.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-18",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/18/tnie-exclusive-completion-of-24x7-water-supply-project-in-coimbatore-pushed-to-feb-2026"
+  },
+  {
+    "doc_id": "water:13",
+    "chunk_id": "water:13#c0",
+    "text": "Suez fined Rs 68.4 lakh for delays and negligence. Still work slow ah da.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-10",
+    "url": null
+  },
+  {
+    "doc_id": "water:14",
+    "chunk_id": "water:14#c0",
+    "text": "Pipeline work at major junctions started after 87% completion. Hope water pressure improve soon.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-24",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/87-of-24x7-water-supply-project-in-coimbatore-completed-pipeline-work-begins-at-major-junctions/article70433552.ece"
+  },
+  {
+    "doc_id": "water:15",
+    "chunk_id": "water:15#c0",
+    "text": "Anna Nagar la water supply alternate days thaan... 24x7 eppo da varum?",
+    "domain": "water",
+    "source": "forums",
+    "date": "2026-01-20",
+    "url": null
+  },
+  {
+    "doc_id": "water:16",
+    "chunk_id": "water:16#c0",
+    "text": "Pending approvals from highways dept for pipeline laying causing major delays in 24x7 project.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-09-15",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatores-247-drinking-water-supply-project-by-suez-likely-to-be-completed-in-january-2026/article70052429.ece"
+  },
+  {
+    "doc_id": "water:17",
+    "chunk_id": "water:17#c0",
+    "text": "கோவை la water tanker lorry cost ரொம்ப அதிகம்... project complete ஆனா போதும்.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2025-12-25",
+    "url": null
+  },
+  {
+    "doc_id": "water:18",
+    "chunk_id": "water:18#c0",
+    "text": "1,41,062 HSCs out of 1,50,000 done. 55/97 DMAs getting 24/7 supply.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-18",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/18/tnie-exclusive-completion-of-24x7-water-supply-project-in-coimbatore-pushed-to-feb-2026"
+  },
+  {
+    "doc_id": "water:19",
+    "chunk_id": "water:19#c0",
+    "text": "Road digging nal pedestrians danger la irukku... water project fast pannunga.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-02",
+    "url": null
+  },
+  {
+    "doc_id": "water:20",
+    "chunk_id": "water:20#c0",
+    "text": "Siruvani water level good but distribution poor in some areas. 24x7 fix pannum nu hope.",
+    "domain": "water",
+    "source": "forums",
+    "date": "2026-01-25",
+    "url": null
+  },
+  {
+    "doc_id": "water:21",
+    "chunk_id": "water:21#c0",
+    "text": "Coimbatore Corporation to start commercial 24x7 operations by Feb 2026.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-20",
+    "url": "https://www.projectstoday.com/News/Coimbatore-Corpn-set-to-launch-247-water-supply-project-by-February-2026"
+  },
+  {
+    "doc_id": "water:22",
+    "chunk_id": "water:22#c0",
+    "text": "கோவை மேற்கு பகுதி la water quality mosam irukku... filter venum da.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2025-11-30",
+    "url": null
+  },
+  {
+    "doc_id": "water:23",
+    "chunk_id": "water:23#c0",
+    "text": "Implementation bottlenecks push project to February. Fines imposed on concessionaire.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-13",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/implementation-bottlenecks-push-coimbatore-corporations-64671-crore-247-water-supply-project-to-february/article70505318.ece"
+  },
+  {
+    "doc_id": "water:24",
+    "chunk_id": "water:24#c0",
+    "text": "Pipeline leak in some wards... supply interrupted for hours.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-28",
+    "url": null
+  },
+  {
+    "doc_id": "water:25",
+    "chunk_id": "water:25#c0",
+    "text": "29/33 overhead tanks completed. Remaining under construction.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-09-15",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatores-247-drinking-water-supply-project-by-suez-likely-to-be-completed-in-january-2026/article70052429.ece"
+  },
+  {
+    "doc_id": "water:26",
+    "chunk_id": "water:26#c0",
+    "text": "Water bodies restoration la bamboo planting good step... but daily supply fix pannunga.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "water:27",
+    "chunk_id": "water:27#c0",
+    "text": "Public concerns over road restoration after pipeline works. UGD damages pipelines.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-09-15",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/coimbatores-247-drinking-water-supply-project-by-suez-likely-to-be-completed-in-january-2026/article70052429.ece"
+  },
+  {
+    "doc_id": "water:28",
+    "chunk_id": "water:28#c0",
+    "text": "RS Puram residents waiting for consistent supply... tanker bill ரொம்ப ஏறுது.",
+    "domain": "water",
+    "source": "forums",
+    "date": "2025-12-20",
+    "url": null
+  },
+  {
+    "doc_id": "water:29",
+    "chunk_id": "water:29#c0",
+    "text": "24x7 project la 1,807 km pipelines laid already. Good progress but delays frustrating.",
+    "domain": "water",
+    "source": "youtube",
+    "date": "2025-12-15",
+    "url": null
+  },
+  {
+    "doc_id": "water:30",
+    "chunk_id": "water:30#c0",
+    "text": "கோவை தெற்கு பகுதி la water timing irregular... kids school ku late aagudhu.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-18",
+    "url": null
+  },
+  {
+    "doc_id": "water:31",
+    "chunk_id": "water:31#c0",
+    "text": "Major drinking water pipeline burst on Vilankurichi Road Ward 22. Water gushed out, traffic and trade disrupted. Suez, TWAD, CCMC rushed for repairs.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-31",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Jan/31/pipeline-burst-traffic-trade-disrupted-on-vilankurichi-road"
+  },
+  {
+    "doc_id": "water:32",
+    "chunk_id": "water:32#c0",
+    "text": "கோவை Vilankurichi Road la drinking water pipeline burst da... full road la water, traffic jam aagiduchu. Repair eppo mudiyum?",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "water:33",
+    "chunk_id": "water:33#c0",
+    "text": "Over 1 lakh household connections now getting 24/7 water supply. 1,00,036 on continuous, remaining in trial. Target 1.5 lakh. Complete by Feb 2026.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-31",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/over-1-lakh-household-connections-in-coimbatore-city-receive-247-drinking-water-supply/article70556685.ece"
+  },
+  {
+    "doc_id": "water:34",
+    "chunk_id": "water:34#c0",
+    "text": "Implementation bottlenecks push 24/7 project to February. Pending main line connections at Trichy Road, Lanka Corner. Slow progress frustrating da.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-13",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/implementation-bottlenecks-push-coimbatore-corporations-64671-crore-247-water-supply-project-to-february/article70505318.ece"
+  },
+  {
+    "doc_id": "water:35",
+    "chunk_id": "water:35#c0",
+    "text": "Pillur II scheme pipeline burst near Saravanampatti. Water overflow, traffic issues. Immediate repairs started.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-25",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/pillur-ii-scheme-water-pipeline-bursts-near-saravanampatti-in-coimbatore/article70436848.ece"
+  },
+  {
+    "doc_id": "water:36",
+    "chunk_id": "water:36#c0",
+    "text": "87% of 24x7 project complete. Pipeline work at Sungam Junction, Alvernia School, Olympus Bus Stand. 30/33 OHTs done.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-24",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/87-of-24x7-water-supply-project-in-coimbatore-completed-pipeline-work-begins-at-major-junctions/article70433552.ece"
+  },
+  {
+    "doc_id": "water:37",
+    "chunk_id": "water:37#c0",
+    "text": "CWPRS delay holds up Siruvani dam repairs. Seepage wasting 10 MLD water daily. DPR still not submitted after 1+ year.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-20",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Jan/20/cwprs-delay-holds-up-siruvani-dam-repairs-officials-flag-precious-water-loss"
+  },
+  {
+    "doc_id": "water:38",
+    "chunk_id": "water:38#c0",
+    "text": "கோவை la 24x7 water innum full ah varala... some areas la low pressure, tanker bill ரொம்ப ஏறுது da.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-25",
+    "url": null
+  },
+  {
+    "doc_id": "water:39",
+    "chunk_id": "water:39#c0",
+    "text": "Suez fined for delays and substandard work. Project pushed to Feb 2026 again. Slow progress and quality complaints.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-18",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/18/tnie-exclusive-completion-of-24x7-water-supply-project-in-coimbatore-pushed-to-feb-2026"
+  },
+  {
+    "doc_id": "water:40",
+    "chunk_id": "water:40#c0",
+    "text": "Road restoration pending after pipeline digging. UGD works damaging new lines, adding more delays.",
+    "domain": "water",
+    "source": "forums",
+    "date": "2026-01-15",
+    "url": null
+  },
+  {
+    "doc_id": "water:41",
+    "chunk_id": "water:41#c0",
+    "text": "1,19,142 connections provided, 1 lakh on 24/7. Commissioner instructs Suez to finish by Feb.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-31",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/over-1-lakh-household-connections-in-coimbatore-city-receive-247-drinking-water-supply/article70556685.ece"
+  },
+  {
+    "doc_id": "water:42",
+    "chunk_id": "water:42#c0",
+    "text": "Pillur supply halt for Kundha dam maintenance. Week-long shortage left many parched. Restoration by Saturday hopefully.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-11-15",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Nov/15/week-long-pillur-supply-halt-leaves-coimbatore-parched-officials-say-restoration-likely-by-saturday"
+  },
+  {
+    "doc_id": "water:43",
+    "chunk_id": "water:43#c0",
+    "text": "கோவை Saravanampatti la pipeline burst... water full ah overflow, daily activities affected da.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2025-12-26",
+    "url": null
+  },
+  {
+    "doc_id": "water:44",
+    "chunk_id": "water:44#c0",
+    "text": "Wastage reduced to 16.8% in project areas. Consumption down to 110 LPCD from 135. Revenue up to Rs 44 crore.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-19",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/24x7-drinking-water-supply-project-begins-to-yield-palpable-results-in-coimbatore/articleshow/126063987.cms"
+  },
+  {
+    "doc_id": "water:45",
+    "chunk_id": "water:45#c0",
+    "text": "Siruvani Main Road four-laning delay due to underground pipeline. Dusty stretch, difficult travel.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-02-01",
+    "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Feb/01/expedite-four-laning-of-siruvani-main-road-coimbatore-residents"
+  },
+  {
+    "doc_id": "water:46",
+    "chunk_id": "water:46#c0",
+    "text": "RS Puram la water pressure romba low... 24x7 varum varaikum borewell or tanker thaan da option.",
+    "domain": "water",
+    "source": "forums",
+    "date": "2026-01-28",
+    "url": null
+  },
+  {
+    "doc_id": "water:47",
+    "chunk_id": "water:47#c0",
+    "text": "Commissioner inspected Suez works near VOC park. Urged to expedite overhead tanks in Puliyakulam, Sungam etc.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-19",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/corporation-commissioner-oversees-ongoing-suez-24-hour-drinking-water-project-in-coimbatore/article70524982.ece"
+  },
+  {
+    "doc_id": "water:48",
+    "chunk_id": "water:48#c0",
+    "text": "Commercial operations of 24x7 to start Feb 2026 once 1.35 lakh connections done. Target 1.5 lakh.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-20",
+    "url": "https://www.projectstoday.com/News/Coimbatore-Corpn-set-to-launch-247-water-supply-project-by-February-2026"
+  },
+  {
+    "doc_id": "water:49",
+    "chunk_id": "water:49#c0",
+    "text": "Pipeline burst incidents adding to public anger. Road safety compromised during works.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-02-01",
+    "url": null
+  },
+  {
+    "doc_id": "water:50",
+    "chunk_id": "water:50#c0",
+    "text": "கோவை la 24x7 project 90% complete nu solraanga... but remaining areas la still alternate days supply da.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-22",
+    "url": null
+  },
+  {
+    "doc_id": "water:51",
+    "chunk_id": "water:51#c0",
+    "text": "1,747 km distribution pipelines laid out of 1,798 km. Feeder mains 66.25/75 km done.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-24",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/87-of-24x7-water-supply-project-in-coimbatore-completed-pipeline-work-begins-at-major-junctions/article70433552.ece"
+  },
+  {
+    "doc_id": "water:52",
+    "chunk_id": "water:52#c0",
+    "text": "Siruvani dam seepage issue. 10 MLD waste daily. Repairs delayed by CWPRS report.",
+    "domain": "water",
+    "source": "forums",
+    "date": "2026-01-25",
+    "url": null
+  },
+  {
+    "doc_id": "water:53",
+    "chunk_id": "water:53#c0",
+    "text": "Suez to complete remaining by Feb. But history of misses da.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-31",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/over-1-lakh-household-connections-in-coimbatore-city-receive-247-drinking-water-supply/article70556685.ece"
+  },
+  {
+    "doc_id": "water:54",
+    "chunk_id": "water:54#c0",
+    "text": "Water tanker lorry cost high in delayed areas. Project fast pannunga pls.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2025-12-30",
+    "url": null
+  },
+  {
+    "doc_id": "water:55",
+    "chunk_id": "water:55#c0",
+    "text": "Pillur III benefits not reaching public yet. Budget proposals non-starters.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-31",
+    "url": "https://www.thehindu.com/news/cities/Coimbatore/major-civic-projects-proposed-in-coimbatore-corporation-202526-budget-remain-non-starters/article70570258.ece"
+  },
+  {
+    "doc_id": "water:56",
+    "chunk_id": "water:56#c0",
+    "text": "கோவை East Zone la pipeline burst frequent ah irukku... quality check pannunga da Suez.",
+    "domain": "water",
+    "source": "twitter",
+    "date": "2026-01-31",
+    "url": null
+  },
+  {
+    "doc_id": "water:57",
+    "chunk_id": "water:57#c0",
+    "text": "Non-revenue water down 23.2% to 16.8% in covered areas. Good sign but core only.",
+    "domain": "water",
+    "source": "news",
+    "date": "2025-12-19",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/24x7-drinking-water-supply-project-begins-to-yield-palpable-results-in-coimbatore/articleshow/126063987.cms"
+  },
+  {
+    "doc_id": "water:58",
+    "chunk_id": "water:58#c0",
+    "text": "Overhead tanks in Bharathi Park, Sokkampudur under progress. Hope pressure improves.",
+    "domain": "water",
+    "source": "youtube",
+    "date": "2026-01-20",
+    "url": null
+  },
+  {
+    "doc_id": "water:59",
+    "chunk_id": "water:59#c0",
+    "text": "24x7 project la digging nal roads pothole full... pedestrians danger.",
+    "domain": "water",
+    "source": "forums",
+    "date": "2026-01-10",
+    "url": null
+  },
+  {
+    "doc_id": "water:60",
+    "chunk_id": "water:60#c0",
+    "text": "Coimbatore corporation to launch commercial 24x7 by Feb. But skepticism high after multiple delays.",
+    "domain": "water",
+    "source": "news",
+    "date": "2026-01-19",
+    "url": "https://timesofindia.indiatimes.com/city/coimbatore/coimbatore-corporation-to-start-commercial-operations-of-247-water-project-soon/articleshow/126660651.cms"
+  },
+  {
+    "doc_id": "weather:0",
+    "chunk_id": "weather:0#c0",
+    "text": "Coimbatore today hazy sunshine, high 89°F (32°C), low 67°F (19°C). No rain expected, ENE winds 8-10 mph.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.accuweather.com/en/in/coimbatore/206673/weather-forecast/206673"
+  },
+  {
+    "doc_id": "weather:1",
+    "chunk_id": "weather:1#c0",
+    "text": "கோவை இன்னிக்கு hazy da... morning la mist irukku, temperature 31°C high, rain zero chance.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "weather:2",
+    "chunk_id": "weather:2#c0",
+    "text": "Partly cloudy in Coimbatore, max 31°C, min 20°C. Patchy rain nearby possible but only 6% chance.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://weather.com/en-IN/weather/tenday/l/Coimbatore+Tamil+Nadu+641114"
+  },
+  {
+    "doc_id": "weather:3",
+    "chunk_id": "weather:3#c0",
+    "text": "Coimbatore weather super da... 30°C comfortable, no heat, no rain. Perfect for outing.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-02-01",
+    "url": null
+  },
+  {
+    "doc_id": "weather:4",
+    "chunk_id": "weather:4#c0",
+    "text": "Morning fog in Coimbatore, visibility low early. Clears to sunny afternoon 89°F, 1% rain.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.timeanddate.com/weather/india/coimbatore/ext"
+  },
+  {
+    "doc_id": "weather:5",
+    "chunk_id": "weather:5#c0",
+    "text": "கோவை la morning mist full ah irukku... temperature drop pannuthu, but day time hot aagidum.",
+    "domain": "weather",
+    "source": "forums",
+    "date": "2026-02-01",
+    "url": null
+  },
+  {
+    "doc_id": "weather:6",
+    "chunk_id": "weather:6#c0",
+    "text": "Coimbatore forecast: Mostly clear tonight, low 67°F. Tomorrow sunny 90°F, 0% precipitation.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.accuweather.com/en/in/coimbatore/206673/weather-forecast/206673"
+  },
+  {
+    "doc_id": "weather:7",
+    "chunk_id": "weather:7#c0",
+    "text": "No rains expected next 10 days in Kongu belt including Coimbatore. Dry continental winds.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-01-27",
+    "url": "https://www.facebook.com/KonguRainman/posts/coimbatore-weatherman-santhosh-krish-weather-forecast-january-272026no-rains-exp/1432889718202576"
+  },
+  {
+    "doc_id": "weather:8",
+    "chunk_id": "weather:8#c0",
+    "text": "Coimbatore hazy, feels like 90°F during day. Humidity low 43-50%, good air quality moderate.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.aqi.in/weather/us/india/tamil-nadu/coimbatore"
+  },
+  {
+    "doc_id": "weather:9",
+    "chunk_id": "weather:9#c0",
+    "text": "இன்னிக்கு Coimbatore la weather நல்லா இருக்கு da... rain illa, but haze irukku morning.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-01-30",
+    "url": null
+  },
+  {
+    "doc_id": "weather:10",
+    "chunk_id": "weather:10#c0",
+    "text": "February Coimbatore average: High 34°C, low 21°C, rain chance 2%. Dry and warm.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-01",
+    "url": "https://en.climate-data.org/asia/india/tamil-nadu/coimbatore-2788/t/february-2"
+  },
+  {
+    "doc_id": "weather:11",
+    "chunk_id": "weather:11#c0",
+    "text": "Coimbatore today patchy rain nearby possible, but high 31°C, low 19°C. Mostly sunny.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.ventusky.com/11.01;76.96"
+  },
+  {
+    "doc_id": "weather:12",
+    "chunk_id": "weather:12#c0",
+    "text": "கோவை la winter weather nice da... night 19°C cool, day comfortable. Rain eppo varum?",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-01-25",
+    "url": null
+  },
+  {
+    "doc_id": "weather:13",
+    "chunk_id": "weather:13#c0",
+    "text": "Coimbatore extended: Feb 3 sunny 90°F/64°F, Feb 4 morning clouds 89°F/63°F, no rain.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.timeanddate.com/weather/india/coimbatore/ext"
+  },
+  {
+    "doc_id": "weather:14",
+    "chunk_id": "weather:14#c0",
+    "text": "Hazy sunshine in Coimbatore, UV index high. Wear sunscreen if outside long.",
+    "domain": "weather",
+    "source": "forums",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "weather:15",
+    "chunk_id": "weather:15#c0",
+    "text": "Coimbatore January 2026 summary: Avg high 29.8°C, low 18.3°C, minimal rain 13mm total.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-01",
+    "url": "https://en.climate-data.org/asia/india/tamil-nadu/coimbatore-2788/t/january-1"
+  },
+  {
+    "doc_id": "weather:16",
+    "chunk_id": "weather:16#c0",
+    "text": "No heavy rain or alerts in Coimbatore this week. Stable dry weather continues.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-01-28",
+    "url": null
+  },
+  {
+    "doc_id": "weather:17",
+    "chunk_id": "weather:17#c0",
+    "text": "Coimbatore forecast hazy, winds ENE 10-15 km/h. Low chance of drizzle.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.bbc.com/weather/1273865"
+  },
+  {
+    "doc_id": "weather:18",
+    "chunk_id": "weather:18#c0",
+    "text": "கோவை la temperature drop pannuthu night la... blanket venum da cool feel.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-02-01",
+    "url": null
+  },
+  {
+    "doc_id": "weather:19",
+    "chunk_id": "weather:19#c0",
+    "text": "Coimbatore 10-day: Mostly sunny, highs 30-33°C, lows 18-20°C. Rain negligible.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://weather.com/weather/tenday/l/Coimbatore+Tamil+Nadu"
+  },
+  {
+    "doc_id": "weather:20",
+    "chunk_id": "weather:20#c0",
+    "text": "Morning mist clears to sunny afternoon in Coimbatore. Comfortable weather overall.",
+    "domain": "weather",
+    "source": "forums",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "weather:21",
+    "chunk_id": "weather:21#c0",
+    "text": "Coimbatore current: 73°F fog early, feels like 74°F. Day high 89°F.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.timeanddate.com/weather/india/coimbatore"
+  },
+  {
+    "doc_id": "weather:22",
+    "chunk_id": "weather:22#c0",
+    "text": "Dry weather continues in Coimbatore, no monsoon leftovers. Farmers happy with clear skies.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-01-20",
+    "url": null
+  },
+  {
+    "doc_id": "weather:23",
+    "chunk_id": "weather:23#c0",
+    "text": "February Coimbatore: Expect 34°C max, 21°C min, very low precipitation 14mm monthly.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-01",
+    "url": "https://weather-and-climate.com/coimbatore-February-averages"
+  },
+  {
+    "doc_id": "weather:24",
+    "chunk_id": "weather:24#c0",
+    "text": "கோவை weather update: No rain next few days, sunny and hazy da.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-01-30",
+    "url": null
+  },
+  {
+    "doc_id": "weather:25",
+    "chunk_id": "weather:25#c0",
+    "text": "Coimbatore hazy sunshine, UV 7-8 high. Hydrate if outdoors.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-02",
+    "url": "https://www.accuweather.com/en/in/coimbatore/206673/weather-forecast/206673"
+  },
+  {
+    "doc_id": "weather:26",
+    "chunk_id": "weather:26#c0",
+    "text": "Patchy rain nearby possible but low probability in Coimbatore today.",
+    "domain": "weather",
+    "source": "forums",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "weather:27",
+    "chunk_id": "weather:27#c0",
+    "text": "Coimbatore night low 66-70°F, pleasant sleeping weather.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-02-01",
+    "url": null
+  },
+  {
+    "doc_id": "weather:28",
+    "chunk_id": "weather:28#c0",
+    "text": "No cyclone or heavy rain alerts for Coimbatore in Feb 2026. Calm conditions.",
+    "domain": "weather",
+    "source": "news",
+    "date": "2026-02-01",
+    "url": null
+  },
+  {
+    "doc_id": "weather:29",
+    "chunk_id": "weather:29#c0",
+    "text": "கோவை la summer start aaguthu pola... temperature steady 30+°C.",
+    "domain": "weather",
+    "source": "twitter",
+    "date": "2026-02-02",
+    "url": null
+  },
+  {
+    "doc_id": "youtube:0",
+    "chunk_id": "youtube:0#c0",
+    "text": "Enna da bus strike again ah? Office ku late 😭",
+    "domain": null,
+    "source": "youtube",
+    "date": null,
+    "url": null
+  }
+]

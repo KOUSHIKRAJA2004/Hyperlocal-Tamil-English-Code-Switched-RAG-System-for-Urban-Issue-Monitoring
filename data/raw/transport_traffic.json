@@ -1,0 +1,380 @@
+[
+    {
+      "source": "twitter",
+      "domain": "traffic",
+      "text": "Coimbatore Avinashi Road la heavy traffic, signal ku 3 cycle wait panna sanikiduchu 😓",
+      "date": "2024-11-21",
+      "url": "https://twitter.com/example/status/1"
+    },
+    {
+      "source": "news",
+      "domain": "transport",
+      "text": "சென்னையில் மதிய வேளையில் மெட்ரோ ரயில் சேவைகள் தற்காலிகமாக பாதிக்கப்பட்டன.",
+      "date": "2024-11-21",
+      "url": "https://news.example.com/metro-delay"
+    },
+    {
+      "source": "forums",
+      "domain": "traffic",
+      "text": "Anna Nagar la iniku evening full traffic jam, rain + construction nala road romba narrow aagiduchu.",
+      "date": "2024-11-21"
+    },
+    {
+      "source": "twitter",
+      "domain": "transport",
+      "text": "Enna da bus delay again ah? Koyambedu to Tambaram route la periya delay, office ku late aagiduchu.",
+      "date": "2024-11-21"
+    },
+    
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Coimbatore metro project rejected again by centre da... DPR la discrepancies irukku nu solraanga. Traffic ippo full torture aagiduchu without metro.",
+          "date": "2025-11-21",
+          "url": "https://x.com/example_user/status/185xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "மெட்ரோ ரயில் திட்ட அறிக்கையில் கோவைக்கு அதிக போக்குவரத்து எதிர்பார்ப்பு காட்டப்பட்டுள்ளது. சென்னையை விட அதிகமாக உள்ளது என்று மத்திய அமைச்சர் கூறினார்.",
+          "date": "2025-11-20",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/metro-rail-proposals-for-coimbatore-madurai-have-discrepancies"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "கோவை traffic la maatikiten da... Avinashi road full jam, signal ku 4-5 cycle wait. Metro vara varaikum idhu thaan da daily story.",
+          "date": "2025-12-05",
+          "url": "https://x.com/kovai_boy/status/186xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "கோயம்புத்தூர் மெட்ரோ திட்டத்திற்கான திருத்திய திட்ட அறிக்கை தமிழக அரசால் மத்திய அரசுக்கு சமர்ப்பிக்கப்பட்டது. ஆனால் குறைபாடுகள் காரணமாக திருப்பி அனுப்பப்பட்டது.",
+          "date": "2026-01-16",
+          "url": "https://www.dinamalar.com/news/tamil-nadu-news/coimbatore-metro-revised-project-report"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Gandhipuram central bus stand renovation 50 years old building... ippo innum delay da fund allocation illa nu solraanga. Enna da idhu govt work.",
+          "date": "2025-12-20",
+          "url": "https://x.com/cbe_commuter/status/187xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "கோயம்புத்தூரில் உள்கட்டமைப்பு திட்டங்களுக்கு நிதி ஒதுக்கீடு தாமதமாகி வருகிறது. காந்திபுரம் பேருந்து நிலையம் புனரமைப்பு பணி நிறுத்தப்பட்டுள்ளது.",
+          "date": "2025-12-19",
+          "url": "https://www.newindianexpress.com/states/tamil-nadu/2025/Dec/19/infra-projects-in-coimbatore-stuck"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Sathy road la NH work slow ah nadakkuthu... Annur varaikum 4 lane aagala. Traffic jam everyday evening 6-9 pm unbearable da.",
+          "date": "2026-01-10",
+          "url": "https://x.com/kovai_traffic/status/188xxxx"
+        },
+        {
+          "source": "forums",
+          "domain": "traffic",
+          "text": "RS Puram la evening full jam irukku... cars + two wheelers + autos mix. Metro illana idhu fix aagadhu da bros.",
+          "date": "2025-12-15",
+          "url": "https://exampleforum.com/thread/traffic-rspuram"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "CM wrote to PM about Coimbatore Madurai metro rejection... but centre says policy violation. Politics da idhellam.",
+          "date": "2025-11-22",
+          "url": "https://x.com/tn_politics/status/185yyyy"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "தமிழக முதலமைச்சர் பிரதமருக்கு கடிதம் எழுதினார். கோவை மெட்ரோ திட்டத்தை மறுபரிசீலனை செய்ய வேண்டும் என்று கோரினார்.",
+          "date": "2025-11-22",
+          "url": "https://metrorailnews.in/coimbatore-madurai-metro-projects"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Peelamedu la airport road la heavy traffic irukku iniku... flight miss aagiducha nu bayam da.",
+          "date": "2026-01-25",
+          "url": "https://x.com/airportguy_cbe/status/189xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Ukkadam bus stand construction fast ah nadakkuthu... hopefully one month la ready aagidum nu solraanga.",
+          "date": "2026-01-05",
+          "url": "https://x.com/bus_user_cbe/status/190xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "ஒரே மாதத்தில் உக்கடம் பேருந்து நிலையம் பயன்பாட்டுக்கு தயாராகிவிடும் என்று அதிகாரிகள் தெரிவித்தனர்.",
+          "date": "2026-01-20",
+          "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/ukkadam-bus-stand"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Rain vandha Coimbatore la road full water logging + jam. Drainage fix pannala da ippo varaikum.",
+          "date": "2025-12-10",
+          "url": "https://x.com/rain_hater_cbe/status/191xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "No metro for Coimbatore even in 2026 budget... sad da we are ignored completely.",
+          "date": "2026-02-01",
+          "url": "https://x.com/kongu_voice/status/192xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Saibaba colony la evening traffic jam romba mosam... school time la avoid pannunga da.",
+          "date": "2026-01-28",
+          "url": "https://x.com/parent_cbe/status/193xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "கோயம்புத்தூர் மெட்ரோ திட்டம் 2026 ஜூனுக்குள் தொடங்கும் என்று எதிர்பார்க்கப்படுகிறது ஆனால் நிதி பிரச்சினை உள்ளது.",
+          "date": "2025-11-25",
+          "url": "https://www.dtnext.in/news/choked-coimbatore-seeks-metro-rail-relief"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "L&T bypass elevated aagala... Neelambur to Ettimadai full jam everyday.",
+          "date": "2025-11-30",
+          "url": "https://x.com/road_rager/status/194xxxx"
+        },
+        {
+          "source": "forums",
+          "domain": "transport",
+          "text": "Kovai la private bus operators strike threat poduraanga... fuel price high nu. Public suffer da.",
+          "date": "2026-01-15",
+          "url": "https://localforum.in/thread/bus-strike-threat"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "100 feet road la no parking board irundhalum cars full ah park pannuraanga. Traffic police enga da?",
+          "date": "2026-01-18",
+          "url": "https://x.com/angry_driver/status/195xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "traffic",
+          "text": "கோவையில் பிரதான சாலைகளில் கடைகளுக்கு முன் வாகனங்கள் நிறுத்துவதை தடுக்க போலீசார் நடவடிக்கை எடுக்க வேண்டும்.",
+          "date": "2025-01-03",
+          "url": "https://www.dinamalar.com/news/tamil-nadu-district-news-coimbatore/no-parking-issues"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Metro illa na flyover mattum podhadhu da... Coimbatore choked with traffic.",
+          "date": "2025-11-24",
+          "url": "https://x.com/city_watcher/status/196xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Town hall area la Saturday night jam next level... move pannave mudiyala.",
+          "date": "2025-11-23",
+          "url": "https://x.com/weekend_vibes/status/197xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "கோவை மெட்ரோ திட்டத்திற்கு மத்திய அரசு நிதி ஒதுக்கவில்லை. மாநில அரசு மீண்டும் முயற்சி செய்ய வேண்டும்.",
+          "date": "2026-02-02",
+          "url": "https://example-news.com/budget-snub"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Vilankurichi road la water pipeline burst... road full water + traffic mess.",
+          "date": "2026-01-31",
+          "url": "https://x.com/local_alert/status/198xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Bus conductors over speeding pannuraanga... safety zero da Coimbatore routes la.",
+          "date": "2026-01-12",
+          "url": "https://x.com/safety_first/status/199xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Singanallur la bridge work delay... daily 30 mins extra travel time.",
+          "date": "2025-12-25",
+          "url": "https://x.com/commute_pain/status/200xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "traffic",
+          "text": "கோயம்புத்தூரில் போக்குவரத்து நெரிசல் அதிகரித்து வருகிறது. மெட்ரோ திட்டம் அவசரமாக தேவை.",
+          "date": "2025-12-01",
+          "url": "https://www.dtnext.in/news/coimbatore-traffic-crunch"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "TNEB + transport dept coordination illa... power cut + bus delay combo daily.",
+          "date": "2026-01-08",
+          "url": "https://x.com/frustrated_cbe/status/201xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Hope new year la traffic rules strict aagum... but doubt da.",
+          "date": "2026-01-01",
+          "url": "https://x.com/newyear_wish/status/202xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Coimbatore airport traffic increase aagiduchu... but road capacity same da.",
+          "date": "2026-01-20",
+          "url": "https://x.com/travel_guy/status/203xxxx"
+        },
+        {
+          "source": "forums",
+          "domain": "traffic",
+          "text": "Any idea when Gandhipuram bus stand renovation complete aagum? Already 2 years delay.",
+          "date": "2025-12-18",
+          "url": "https://forum.example.com/gandhipuram-delay"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Construction nalum jam, rain nalum jam... Coimbatore la escape illa da.",
+          "date": "2025-12-08",
+          "url": "https://x.com/jam_king/status/204xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "மெட்ரோ ரயில் திட்டங்களுக்கு நிதி இல்லை என்று ஒன்றிய பட்ஜெட் உறுதிப்படுத்தியது.",
+          "date": "2026-02-01",
+          "url": "https://example-budget-news.com"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "AIADMK also complaining about metro funds... but when they were in power nothing happened.",
+          "date": "2026-02-02",
+          "url": "https://x.com/political_sarcasm/status/205xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Evening 7 pm la RS Puram cross pannave mudiyala... full standstill.",
+          "date": "2026-01-14",
+          "url": "https://x.com/stuck_in_traffic/status/206xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Private buses charging extra during peak hours... regulation venum da.",
+          "date": "2025-12-30",
+          "url": "https://x.com/fair_fare/status/207xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "traffic",
+          "text": "கோவை போக்குவரத்து நெரிசலை குறைக்க பறக்கும் பாதைகள் மட்டும் போதாது.",
+          "date": "2025-11-25",
+          "url": "https://www.dtnext.in/news/choked-coimbatore"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Bro anyone know alternate route for Gandhipuram to Town hall? Jam too much.",
+          "date": "2026-01-22",
+          "url": "https://x.com/route_helper/status/208xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Metro policy 2017 la compliance illa nu centre solradhu correct ah? Or politics?",
+          "date": "2025-11-21",
+          "url": "https://x.com/metro_debate/status/209xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Coimbatore Saturday night la move pannave mudiyadhu... unbearable da.",
+          "date": "2025-11-22",
+          "url": "https://x.com/night_rider/status/210xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "கோவை மெட்ரோ திட்டம் நிராகரிக்கப்பட்டது. காரணம் திட்ட அறிக்கையில் குறைபாடுகள்.",
+          "date": "2025-11-20",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/metro-rail-proposals"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Anna Nagar la construction + rain = mega jam da today.",
+          "date": "2025-12-12",
+          "url": "https://x.com/local_resident/status/211xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Bus strike rumor irukku... confirm pannunga da anyone.",
+          "date": "2026-01-19",
+          "url": "https://x.com/bus_watcher/status/212xxxx"
+        },
+        {
+          "source": "forums",
+          "domain": "traffic",
+          "text": "Coimbatore la daily traffic la 1 hour waste aagudhu... metro vara maatengala?",
+          "date": "2026-01-10",
+          "url": "https://forum.example.com/traffic-waste"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Signal timing optimize pannunga da traffic police... waiting time romba.",
+          "date": "2026-01-05",
+          "url": "https://x.com/signal_hater/status/213xxxx"
+        },
+        {
+          "source": "news",
+          "domain": "transport",
+          "text": "தமிழ்நாட்டில் மெட்ரோ திட்டங்களுக்கு நிதி இல்லை என்பது ஏமாற்றம் அளிக்கிறது.",
+          "date": "2026-02-02",
+          "url": "https://example-news.com/budget-reaction"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Kovai la pollution + traffic combo health ku mosam da.",
+          "date": "2025-12-28",
+          "url": "https://x.com/health_guy/status/214xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "transport",
+          "text": "Finally some hope for Ukkadam bus stand... but will it finish on time?",
+          "date": "2026-01-25",
+          "url": "https://x.com/hopeful_commuter/status/215xxxx"
+        },
+        {
+          "source": "twitter",
+          "domain": "traffic",
+          "text": "Metro illa na Coimbatore growth stuck da forever.",
+          "date": "2025-11-28",
+          "url": "https://x.com/city_future/status/216xxxx"
+        }
+      
+  ]
